@@ -55,7 +55,8 @@ CAD Image:
 
 <img width="2219" height="1865" alt="Screenshot 2026-09-21 at 12 09 04 AM" src="https://github.com/user-attachments/assets/418e822f-a9f6-4de6-9a28-1b3ddecae2d9" />
 
-NEXT STEPS:
+
+## NEXT STEPS:
 - Finish entire schematic and start PCB layout and maybe even routing by end of next week
 - 3D print the CAD files and conduct tests on the rocket to find center of mass, total mass, and much more
 - Use the calculations/observations from the tests to simulate the rocket in OpenRocket (failed this week)
